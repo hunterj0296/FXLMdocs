@@ -122,8 +122,7 @@ To exercise your rights, email: **hunter@shotonfxlm.com**
 
 We may update this Privacy Policy periodically. If we make significant changes, we will notify you via the app or by email. The latest version will always be available at:
 
-> [https://your-username.github.io/privacy-policy/](https://your-username.github.io/privacy-policy/)
-
+> [[https://your-username.github.io/privacy-policy/](https://hunterj0296.github.io/FXLMdocs/privacy-policy)]
 ---
 
 ## Contact Us
